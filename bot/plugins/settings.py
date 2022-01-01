@@ -30,8 +30,8 @@ async def settings(bot, update):
     bot_first_name= bot_info.first_name
     
     text =f"<i>{bot_first_name}'s</i> Settings Pannel.....\n"
-    text+=f"\n<i>You Can Use This Menu To Change Connectivity And Know Status Of Your Every Connected Channel, Change Filter Types, Configure Filter Results And To Know Status Of Your Group...</i>"
-    
+    text+=f"\n🇬🇧Dᴇᴠᴇʟᴏᴘᴇʀ » @ToxicDeeModderr\n\n<i>You Can Use This Menu To Change Connectivity And Know Status Of Your Every Connected Channel, Change Filter Types, Configure Filter Results And To Know Status Of Your Group...</i>"
+   
     buttons = [
         [
             InlineKeyboardButton
